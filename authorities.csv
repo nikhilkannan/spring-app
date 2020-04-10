@@ -1,0 +1,6 @@
+username,authority
+john,ROLE_EMPLOYEE
+mary,ROLE_EMPLOYEE
+mary,ROLE_MANAGER
+susan,ROLE_ADMIN
+susan,ROLE_EMPLOYEE
